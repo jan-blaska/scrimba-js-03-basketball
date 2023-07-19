@@ -20,7 +20,7 @@ body {
     display: flex;
     margin: auto;
     justify-content: space-around;
-    background-color: #1B244A;
+    background-color: yellow;
     height: 500px;
     max-width: 800px;
     align-items: center;
@@ -40,7 +40,7 @@ body {
 }
 
 h3 {
-    color: white;
+    color: red;
     font-size: 40px;
     font-weight: 700;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -66,10 +66,10 @@ button {
     justify-content: center;
     align-items: center;
     border-radius: 5px;
-    border-color: #9AABD8;
+    border-color: red;
     font-size: 18px;
-    color: #9AABD8;
-    background-color: #1B244A;
+    color: red;
+    background-color: yellow;
     font-family: 'Cursed Timer ULiL', sans-serif;
     padding: 10px;
 }
